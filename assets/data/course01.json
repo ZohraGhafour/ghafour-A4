@@ -1,0 +1,23 @@
+{
+    "books":
+    [
+        {
+			"name": "Queen of Computer Code",
+			"publisher": "Sterling Children's Books", 
+			"author": "Katy Wu",
+			"openion":"If you’ve got a good idea, and you know it’s going to work, go ahead and do it."
+		},
+        {
+			"name": "IT Infrastructure Architecture",
+			"publisher": "Lulu.com", 
+			"author": "Sjaak Laan",
+			"openion":"This book explains the concepts, history, and implementation of IT infrastructures."
+		},
+        {
+			"name": "Introduction to Artificial Intelligence",
+			"publisher": "Springer", 
+			"author": "Mariusz FlasiÅski",
+			"openion":"The book is very useful for computer science, engineering, and allied science students"
+		}
+    ]
+}

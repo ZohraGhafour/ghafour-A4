@@ -1,0 +1,23 @@
+{
+    "books":
+    [
+        {
+			"name": "Body Love Every Day",
+			"publisher": "HarperCollins", 
+			"author": "Kelly Leveque",
+			"openion":"Celebrity nutritionist Kelly Leveque, is known for helping big-name celebs and normal people alike eat healthier and find a balanced approach to eating. "
+		},
+        {
+			"name": "In the FLO",
+			"publisher": "Amazon", 
+			"author": "Alisa Vitti",
+			"openion":"In the Flo, is all about how women can understand their hormones better and biohack their lives to feel better, manage their energy, perform better at work and more."
+		},
+        {
+			"name": "Boundless",
+			"publisher": "Amazon", 
+			"author": "Ben Greenfield",
+			"openion":"If you're a fan of Tim Ferris or Dave Asperey, you'll be into this book, which follows in the footsteps of their work on biohacking and self-improvement. "
+		}
+    ]
+}

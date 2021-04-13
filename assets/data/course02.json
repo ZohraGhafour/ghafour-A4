@@ -1,0 +1,23 @@
+{
+    "books":
+    [
+        {
+			"name": "UX for Beginners",
+			"publisher": "O'Reilly Media", 
+			"author": "Joel Marsh",
+			"openion":"Apps! Websites! Rubber Ducks! Naked Ninjas! This book has everything."
+		},
+        {
+			"name": "Don't Make Me Think",
+			"publisher": "New Riders", 
+			"author": "Steve Krug",
+			"openion":"I thought usability was the enemy of design until I read the first edition of this book"
+		},
+        {
+			"name": "Learning Web Design",
+			"publisher": "O'Reilly Media", 
+			"author": "Jennifer Robbins ",
+			"openion":"I wanted a primer on the field of web design to adapt to a new role in my job. This book was suited to the task well."
+		}
+    ]
+}
